@@ -1,0 +1,14 @@
+
+.anchor
+.DS_Store
+target
+**/*.rs.bk
+node_modules
+test-ledger
+tests
+key2.json
+trial.json
+trial2.json
+trial3.json
+trial4.json
+trial5.json
